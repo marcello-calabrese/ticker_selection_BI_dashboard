@@ -23,3 +23,7 @@ The dataframe will be used to be uploaded on MySql.
 ## Data Analysis
 
 The data analysis will be done using PowerBI connected to MySQL.
+
+Screenshot of PowerBI dashboard
+Picture 1: ![image](https://user-images.githubusercontent.com/74682725/181113991-484dbec4-c7e3-40b8-82fe-5f004c62c15c.png)
+
