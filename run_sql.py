@@ -55,7 +55,7 @@ def load_sql():
     # create a an engine to connect to the database
     db_engine = create_engine("mysql+pymysql://{user}:{pw}@localhost/{db}"
                        .format(user="root",
-                               pw="Lorenzo_22",
+                               pw="Xxxxx",
                                db="yahoo_tickers"))
     
     # call the transform function
